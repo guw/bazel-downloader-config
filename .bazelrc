@@ -1,0 +1,2 @@
+common --announce_rc
+common --experimental_downloader_config=download.cfg

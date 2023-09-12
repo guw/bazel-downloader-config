@@ -1,0 +1,6 @@
+java_binary(
+    name = "main",
+    main_class = "A",
+    srcs = ["A.java"],
+    deps = [],
+)
